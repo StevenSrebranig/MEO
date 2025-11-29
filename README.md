@@ -14,3 +14,7 @@ Key features of this implementation:
 • The system converges when all marginal profits are near zero, indicating equilibrium.
 
 This implementation is didactic, deterministic, and finite-difference-based. It is intended to illustrate the structure and dynamics of MEO / OO, not to serve as an industrial or production-grade optimizer.
+
+The MEO / Opportunity Optimization framework is defined in the MEO Manifesto:
+DOI: 10.5281/zenodo.17705719
+
